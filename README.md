@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vatsal Chandrani</h1>
+<h1 align="center">Hello, I'm Vatsal Chandrani</h1>
+<h4 align="center">Founded Programming Club @DDU</h4>
+<br>
 
 - 🔭 Currently working on Club-Manager-App (Android), designing the College-Book database, and developing the College-Book website
 
@@ -6,6 +8,7 @@
 
 - 📫 How to reach me **vatsal.chandrani.11@gmail.com**
 
+<br>
 
 - 📊 I enjoy working with DSA, and my primary areas of interest are DSA and Competitive Programming.
 
