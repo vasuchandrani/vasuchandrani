@@ -6,7 +6,7 @@
 
 - 💡 Planned major future projects: **GradeMate** and **College-Book**
 
-- 🌱 I’m currently learning various technologies and concepts that support my projects and help me in building my major projects.
+- 🌱 I’m currently learning various technologies and concepts that support me in building my major projects.
 
 - 📫 How to reach me **vatsal.chandrani.11@gmail.com**
 
