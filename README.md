@@ -2,9 +2,9 @@
 <h4 align="center">Founder and Lead of Programming Club @DDU</h4>
 <br>
 
-- 🔭 Currently working on Club-Manager-App (Android), designing the College-Book database.
+- 🔭 Currently working on **Campus-Connect** and **College-Book**.
 
-- 💡 Planned major future projects: **GradeMate** and **College-Book**
+- 💡 Planning major future projects: **GradeMate** and **City-Shop**, along with mobile apps for Campus-Connect and College-Book.
 
 - 🌱 I’m currently learning various technologies and concepts that support me in building my major projects.
 
