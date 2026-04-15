@@ -14,4 +14,4 @@
 
 - 📊 I enjoy working with DSA, and my primary areas of interest are DSA and Competitive Programming.
 
-My CP track: https://codolio.com/profile/vasuchandrani
+My DSA & CP track: https://codolio.com/profile/vatsalchandrani
